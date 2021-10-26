@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1635151870 source:c:\users\alexander\desktop\3dshooter2\main.c
+	<windows.h>
+	<gl/gl.h>
+	<time.h>
+	<math.h>
+
